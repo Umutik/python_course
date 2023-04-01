@@ -7,10 +7,10 @@ def square(side):
 # def employee(*args):
 
 
-# #4.3
-# my_list = [20, -3, 15, 2, -1, -21]
-# filtered = list(filter(lambda x: x >= 0, my_list))
-# print(filtered)
+#4.3
+my_list = [20, -3, 15, 2, -1, -21]
+filtered = list(filter(lambda x: x >= 0, my_list))
+print(filtered)
 
 # 4.4
 # from functools import reduce
