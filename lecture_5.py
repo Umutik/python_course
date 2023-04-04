@@ -50,10 +50,10 @@ class Pitbull(Dog):
     def run(self):
         return 'I can run faster'
 
-# dog3 = Pitbull('Lassie', 8, 'white', 'type1')
+dog3 = Pitbull('Lassie', 8, 'white', 'type1')
 # print(dog3.get_name())
 # print(dog3.biology_class)
-# print(dog3.passport)
+print(dog3.passport)
 # print(dog2.run())
 # print(dog3.run())
 
